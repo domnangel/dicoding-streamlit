@@ -1,6 +1,7 @@
 Anaconda.org==2.1.1
 conda-forge==v3.8.0
-matplotlib==3.8.0
+matplotlib-inline==0.1.6
+matplotlib at file://C:/Users/Sheila/Documents/SMK/PKL/DB Dicoding/test-python/venv/Lib/site-packages/pandas/plotting/_matplotlib
 numpy==1.26.0
 pandas==2.1.1
 pip==23.2.1
