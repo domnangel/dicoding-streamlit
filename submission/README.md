@@ -13,7 +13,9 @@ conda activate dicoding-ds
 pip install numpy pandas matplotlib seaborn jupyter streamlit
 
 ## Menjalankan Streamlit
-streamlit run "C:\Users\Sheila\Documents\SMK\PKL\DB Dicoding\submission\dashboard\dashboard.py"
+- Klik kanan pada file dashboard.py, pilih "Copy as path"
+- Buka cmd, lalu ketikan: streamlit run "path\to\file\dashboard.py"
+note: "path\to\file\dashboard.py" merupakan path yang sebelumnya sudah dicopy
 
 ## Menjalankan Streamlit di Streamlit Cloud
 https://dashboardpy-bn5kksqsujxdxsptx4nejg.streamlit.app/
