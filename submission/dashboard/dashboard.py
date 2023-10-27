@@ -5,7 +5,7 @@ import streamlit as st
 from matplotlib.dates import MonthLocator
 
 # Data
-main_df = pd.read_csv("C:/Users/Sheila/Documents/SMK/PKL/DB Dicoding/submission/dashboard/main_data.csv")
+main_df = pd.read_csv("submission/dashboard/main_data.csv")
 tipe_datetime_kedua = ["dteday"]
 for tipe in tipe_datetime_kedua:
     main_df[tipe] = pd.to_datetime(main_df[tipe])
