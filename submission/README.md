@@ -14,3 +14,6 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit
 
 ## Menjalankan Streamlit
 streamlit run "C:\Users\Sheila\Documents\SMK\PKL\DB Dicoding\submission\dashboard\dashboard.py"
+
+## Menjalankan Streamlit di Streamlit Cloud
+https://dashboardpy-bn5kksqsujxdxsptx4nejg.streamlit.app/
